@@ -1,6 +1,6 @@
 node_modules
 package-lock.json
-
+properties_colombia
 # Eleventy build
 _dist
 _cache
