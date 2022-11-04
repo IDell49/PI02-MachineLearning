@@ -19,3 +19,5 @@ In this project, our clients wanted us to create a machine learning model design
 
 4) Lastly I just need to upload that IDell49.csv file into my mentors filing system and it's done! 
 
+*note that my entry for the datathon is model with the highest number, as my goal is to keep track of improvements over time*
+
